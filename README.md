@@ -31,4 +31,4 @@ An interactive Power BI dashboard that pulls live current-weather, hourly/daily 
 - Auto generated date tables — built in calendar tables support time intelligence across all fact tables
 
 - 6. Screenshot/Demos:
-https://github.com/fatimaaafzal20/Weather-Dashboard/blob/main/Weather%20Dashboard.PNG
+Dashboard Preview:(https://github.com/fatimaaafzal20/Weather-Dashboard/blob/main/Weather%20Dashboard.PNG)
