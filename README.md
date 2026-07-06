@@ -30,5 +30,5 @@ An interactive Power BI dashboard that pulls live current-weather, hourly/daily 
 - Consolidated data model — separate per city API pulls combined into unified Master Data, Current Data, Forecast by Day, and Forecast by Hour tables for easy cross-city comparison
 - Auto generated date tables — built in calendar tables support time intelligence across all fact tables
 
-- 6. Screenshot/Demos:
+6. Screenshot/Demos:
 Dashboard Preview:(https://github.com/fatimaaafzal20/Weather-Dashboard/blob/main/Weather%20Dashboard.PNG)
