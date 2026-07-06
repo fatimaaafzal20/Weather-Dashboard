@@ -1,19 +1,19 @@
 # Weather Insight Dashboard
 
-**1. Project Title: **
+**1. Project Title:**
 Weather Insights Dashboard
 
-**2. Short Description/Purpose: **
+**2. Short Description/Purpose:**
 An interactive Power BI dashboard that pulls live current-weather, hourly/daily forecast, and air-quality data from the WeatherAPI.com API for five major Pakistani cities (Islamabad, Lahore, Karachi, Murree, Multan). It consolidates each city's feed into unified Current, Forecast (by day/hour), and Master data models, enabling at-a-glance monitoring of temperature, humidity, wind, UV index, precipitation chances, sunrise/sunset times, and air quality indicators (PM2.5, PM10, CO, NO2, O3, SO2) across locations.
 
-**3. Tech Stack: **
+**3. Tech Stack:**
 - Power BI (Power BI Template / .pbit)
 - Power Query (M language) – API ingestion & data shaping
 - DAX – measures and calculated tables
 - WeatherAPI.com REST API – data source (JSON)
 - Data modeling: Relationships established among tables (dates) to enable aggregation.
 
-** 4. Data Source:**
+**4. Data Source:**
  - WeatherAPI.com (https://www.weatherapi.com/)
 - Parameters: 7-day forecast, air quality (aqi=yes) enabled
 - Cities queried: Islamabad, Lahore, Karachi, Murree, Multan
